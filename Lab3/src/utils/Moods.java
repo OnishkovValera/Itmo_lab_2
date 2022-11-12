@@ -3,7 +3,7 @@ package utils;
 import storyclasses.GlowingBallAbstract;
 import storyclasses.Mood;
 
-public abstract class Moods extends GlowingBallAbstract {
+public class Moods {
 
 
 
